@@ -1,6 +1,6 @@
 #Voiz_assignment
 
-To run the app ,run the foolowing commands in your terminal 
+Run the following commands in your terminal to experience the app
 
 1)npm install
 
